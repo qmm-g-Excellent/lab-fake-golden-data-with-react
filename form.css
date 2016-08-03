@@ -1,0 +1,58 @@
+.text-btn{
+    position: relative;
+    margin-top:190px;
+    padding-top:190px
+}
+
+.btn{
+    position: relative;
+    margin-top:40px;
+
+}
+
+
+
+.left{
+
+    position: relative;
+    /*left:25%;*/
+    font-size:40px;
+    /*background: transparent;*/
+    margin:0;
+    padding:0;
+    width:50%;
+    height:800px;
+    float:left;
+    border-right:1px solid #afd9ee;
+}
+
+.review{
+    position: relative;
+    left:40%;
+    top:30px;
+    margin:30px
+
+}
+
+.right{
+    position: relative;
+    left:-20%;
+    top:30px;
+    font-size:30px;
+
+    /*left:50%;*/
+  /*width:100%;*/
+    float:right;
+    height:100%;
+}
+
+.edit{
+    position: relative;
+    left:50%;
+    top:30px;
+}
+
+.btn-submit{
+    margin-top:30%;
+
+}
